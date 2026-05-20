@@ -45,3 +45,4 @@ Inverting amplifier:
 
 
 ## RESULT:
+Thus the inverting amplifier are designed and their performance was successfully tested using op-amp IC 741.
